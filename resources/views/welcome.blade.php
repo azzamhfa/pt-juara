@@ -25,6 +25,7 @@
 <body>
 	<header>
 		<div class="container">
+
 			<div class="d-flex align-items-center justify-content-center">
 				<img class="" style="height: 50px" src="/img/logo-ps.png" alt="">
 				<nav class="d-flex align-items-center">
@@ -46,7 +47,6 @@
 				<br>
 				Memadukan Sumberdaya Bermental Juara untuk mencapai kesejahteraan bersama
 			</div>
-
 		</div>
 	</header>
 	<div class="container-fluid intro w-75 p-3" id="about">
@@ -80,48 +80,48 @@
 				<h1 class="text-center text-light">Our Business</h1>
 				<div class="d-flex justify-content-center flex-wrap">
 					<div class="shadow d-flex card p-3 m-3 align-items-center justify-content-center" style="width: 12rem;" id="poultry">
-						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
+						<img src="/img/jaringan.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
 							<h4 class="card-title text-center">Poultry Shop</h1>
 						</div>
 					</div>
 					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;" id="trading">
-						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
+						<img src="/img/pakan.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
 							<h5 class="card-title text-center">Trading Bahan Baku Pakan & Home Mixer</h5>
 						</div>
 					</div>
-					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;">
-						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
+					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;" id="ayam">
+						<img src="/img/ayam.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
 							<h4 class="card-title text-center">Farm Ayam Jantan</h1>
 						</div>
 
 					</div>
-					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;">
-						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
+					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;" id="dombaA">
+						<img src="/img/domba.png" class="card-img-top w-75" alt="...">
 						<div class="card-body ">
 							<h4 class="card-title text-center">Fattening & Trading Domba</h1>
 						</div>
 
 					</div>
-					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;">
-						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
+					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;" id="dombaB">
+						<img src="/img/domba2.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
 
 							<h4 class="card-title text-center">Breeding Domba</h1>
 						</div>
 
 					</div>
-					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;">
-						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
+					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;" id="rph">
+						<img src="/img/rph.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
 
 							<h4 class="card-title text-center">RPA & RPH</h1>
 						</div>
 
 					</div>
-					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;">
+					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;" id="kaf">
 						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
 
@@ -132,25 +132,62 @@
 				</div>
 			</div>
 			<div class="d-flex col-md-4 section-text nopadding align-items-center">
-				<div class="wp4 text-center">
+				<div class="wp4 text-center" id="jaringan1">
 					<div class="frame">
-						<img src="/img/kaf.png" alt="">
+						<img src="/img/jaringan.png" alt="">
 						<h2>Poultry Shop</h2>
 					</div>
 					<p>Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf”, sebagai usaha hilirisasi dan meningkatkan nilai tambah dalam bisnis</p>
 					<div class="thin-sep"></div>
 					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
 				</div>
-				<div class="wp4 text-center" id="trading" hidden>
+				<div class="wp4 text-center" id="trading1" style="display: none;">
 					<div class="frame">
-						<img src="/img/kaf.png" alt="">
-						<h2>Waralaba</h2>
+						<img src="/img/pakan.png" alt="">
+						<h2>Trading Bahan Baku Pakan & Home Mixer</h2>
 					</div>
-					<p>Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf”, sebagai usaha hilirisasi dan meningkatkan nilai tambah dalam bisnis</p>
+					<p>Menjual bahan-bahan baku pakan ternak non-feedmill serta memproduksi campuran pakan ternak dengan menggunakan beberapa bahan baku local untuk kalangan terbatas (customer) sebagai total solution bagi customer
+					</p>
 					<div class="thin-sep"></div>
 					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
 				</div>
-				<div class="wp4 text-center" hidden id="poultry">
+				<div class="wp4 text-center" id="ayam1" style="display: none;">
+					<div class="frame">
+						<img src="/img/ayam.png" alt="">
+						<h2>Farm Ayam Jantan</h2>
+					</div>
+					<p>Mengembangkan kemitraan ayam jantan bekerjasama dengan peternak, untuk membangun jalinan Kerjasama bisnis yang saling menguntungkan</p>
+					<div class="thin-sep"></div>
+					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
+				</div>
+				<div class="wp4 text-center" id="domba1" style="display: none;">
+					<div class="frame">
+						<img src="/img/domba.png" alt="">
+						<h2>Fattening dan Trading Domba</h2>
+					</div>
+					<p>Bisnis baru, sebuah bisnis kolaborasi untuk menambah portofolio bisnis, menjadi peluang ke depan dalam memenuhi kebutuhan akan daging kambing/ domba</p>
+					<div class="thin-sep"></div>
+					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
+				</div>
+				<div class="wp4 text-center" id="domba2" style="display: none;">
+					<div class="frame">
+						<img src="/img/domba2.png" alt="">
+						<h2>Breeding Domba</h2>
+					</div>
+					<p>Sebuah bisnis rintisan yang bertujuan menjaga kelangsungan pasok atas bisnis penggemukan & trading yang sudah ada serta menjamin kualitas & kuantitas bibit untuk membantu menjaga pasokan bibit nasional</p>
+					<div class="thin-sep"></div>
+					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
+				</div>
+				<div class="wp4 text-center" id="rph1" style="display: none;">
+					<div class="frame">
+						<img src="/img/rph.png" alt="">
+						<h2>RPA & RPH</h2>
+					</div>
+					<p>Rumah Potong Unggas & Rumah Potong Hewan sebagai rantai bisnis yang potensial untuk membangun efiensi bisnis sertai mata rantai bisnis dalam meningkatkan daya saing usaha</p>
+					<div class="thin-sep"></div>
+					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
+				</div>
+				<div class="wp4 text-center" id="kaf1" style="display: none;">
 					<div class="frame">
 						<img src="/img/kaf.png" alt="">
 						<h2>Waralaba</h2>

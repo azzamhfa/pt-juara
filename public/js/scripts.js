@@ -1,17 +1,39 @@
 //Test
 $(function () {
-    $("#poultry").click(function () {});
-    $("#trading").click(function () {
-        
-        console.log("hello");
+    $("#poultry").hover(function () {
+        $(".wp4.text-center").hide();
+        $("#jaringan1").show();
+    });
+    $("#trading").hover(function () {
+        $(".wp4.text-center").hide();
+        $("#trading1").show();
         // target.removeAttribute("type", "hidden");
     });
-    // $("#poultry").click(function () {
-    //     console.log("Hello");
-    // });
-    // $("#poultry").click(function () {
-    //     console.log("Hello");
-    // });
+    $("#ayam").hover(function () {
+        $(".wp4.text-center").hide();
+        $("#ayam1").show();
+        // target.removeAttribute("type", "hidden");
+    });
+    $("#kaf").hover(function () {
+        $(".wp4.text-center").hide();
+        $("#kaf1").show();
+        // target.removeAttribute("type", "hidden");
+    });
+    $("#rph").hover(function () {
+        $(".wp4.text-center").hide();
+        $("#rph1").show();
+        // target.removeAttribute("type", "hidden");
+    });
+    $("#dombaA").hover(function () {
+        $(".wp4.text-center").hide();
+        $("#domba1").show();
+        // target.removeAttribute("type", "hidden");
+    });
+    $("#dombaB").hover(function () {
+        $(".wp4.text-center").hide();
+        $("#domba2").show();
+        // target.removeAttribute("type", "hidden");
+    });
 });
 
 //FLEXSLIDER
