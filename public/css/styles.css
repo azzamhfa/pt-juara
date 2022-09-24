@@ -514,7 +514,7 @@ header ul li a {
     position: relative;
 }
 .section-2 {
-    background: url(../img/left-box-2.jpg) no-repeat center center;
+    background: url(https://www.poultryindonesia.com/wp-content/uploads/2021/08/Gambar.jpeg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -622,7 +622,7 @@ header ul li a {
 }
 .flex-container {
     background-color: #f7f7f7;
-    padding: 125px 0 35px;
+    padding: 120px 0 35px;
     text-align: center;
 }
 .flex-twitter-icon {
@@ -812,7 +812,7 @@ section.sign_up {
 }
 footer {
     background-color: #f7f7f7;
-    padding: 100px 0;
+    padding: 30px 0;
 }
 footer p {
     font-size: 13px;

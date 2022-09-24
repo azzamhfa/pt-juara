@@ -61,36 +61,36 @@
 		<div class="row">
 			<div class="d-flex flex-column col-md-8 nopadding align-items-center justify-content-center wp1 p-5"
 				id="work">
-				<h1 class="text-center">Our Business</h1>
+				<h1 class="text-center text-light">Our Business</h1>
 				<div class="d-flex justify-content-center flex-wrap">
-					<div class="d-flex card p-3 m-3 align-items-center justify-content-center" style="width: 12rem;"
-						id="poultry">
+					<div class="shadow d-flex card p-3 m-3 align-items-center justify-content-center"
+						style="width: 12rem;" id="poultry">
 						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
 							<h4 class="card-title text-center">Poultry Shop</h1>
 						</div>
 					</div>
-					<div class="card p-3 m-3 align-items-center" style="width: 12rem;" id="trading">
+					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;" id="trading">
 						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
 							<h5 class="card-title text-center">Trading Bahan Baku Pakan & Home Mixer</h5>
 						</div>
 					</div>
-					<div class="card p-3 m-3 align-items-center" style="width: 12rem;">
+					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;">
 						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
 							<h4 class="card-title text-center">Farm Ayam Jantan</h1>
 						</div>
 
 					</div>
-					<div class="card p-3 m-3 align-items-center" style="width: 12rem;">
+					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;">
 						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
 						<div class="card-body ">
 							<h4 class="card-title text-center">Fattening & Trading Domba</h1>
 						</div>
 
 					</div>
-					<div class="card p-3 m-3 align-items-center" style="width: 12rem;">
+					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;">
 						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
 
@@ -98,7 +98,7 @@
 						</div>
 
 					</div>
-					<div class="card p-3 m-3 align-items-center" style="width: 12rem;">
+					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;">
 						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
 
@@ -106,7 +106,7 @@
 						</div>
 
 					</div>
-					<div class="card p-3 m-3 align-items-center" style="width: 12rem;">
+					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;">
 						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
 
@@ -149,38 +149,49 @@
 				</div>
 			</div>
 		</div>
-		<div class="row intro">
-			<div class="d-flex col-md-8 col-md-offset-2 align-items-center flex-column">
-				<img class="w-25" src="/img/logo-ps.png" alt="Logo PS">
-				<!-- <h1 class="text-center fs-4">PT Juara Agroniaga Sejahtera</h1> -->
-				<p class="text-intro">PT Juara Agroniaga Sejahtera adalah sebuah poultry shop yang didirikan pada tahun
-					2006 dengan memadukan teknologi dan pengembangan kapabilitas tim untuk mendapatkan kemajuan bersama,
-					serta mengajak & mensupport komunitas tumbuh secara bersama & berkelanjutan di mata rantai industri
-					pangan.</p>
-				<button type="button" class="btn btn-outline-primary w-25">Detai~`l</button>
-
-			</div>
-		</div>
-		<!-- </div>
-	<div class="container-fluid">
 		<div class="row">
-			<div class="col-md-4 section-3">
-				<div class="logo-3 wp3"></div>
-			</div>
 			<div class="col-md-4 section-text nopadding">
-				<div class="wp6">
-					<h2 class="front-frame">Retrò Bike - M. Hulot</h2>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived.</p>
-					<div class="thin-sep"></div>
-				</div>
-				<div class="small-featured-img frame-red">
-					<div class="arrow"></div>
+				<div class="wp5">
+					<h2 class="mech">Our Store</h2>
+					<div class="p-5">
+						<p class="fs-4">Malang</p>
+						<p class="fs-4">Magetan</p>
+						<p class="fs-4">Kediri</p>
+						<p class="fs-4">Mojokerto</p>
+						<p class="fs-4">Ponorogo</p>
+					</div>
 				</div>
 			</div>
-			<div class="col-md-4 section-4"></div>
+			<div class="col-md-8 section-2 nopadding">
+				<div class="wp2 text-center text-white position-absolute top-50 start-50 translate-middle">
+					<h1>Our Store</h1>
+				</div>
+			</div>
 		</div>
-	</div> -->
-		<!-- <section class="flex-container">
+	</div>
+
+	<div class="container-fluid">
+		<div class="row intro wp5">
+			<div class="d-flex col-md-8 col-md-offset-2 align-items-center justify-content-around">
+				<img class="w-25" src="/img/logo-ps.png" alt="Logo PS">
+				<div class="wraper">
+					<h1 class="text-center fs-4">Contact Us</h1>
+					<p class="text-center">
+						Villa Bukit Sengkaling AP-1,Landungsari, Jetak Lor, Mulyoagung, Dau, Malang Regency, East Java
+						65151
+						<br>
+						+62 81233383634 - <a href="#">info@domain.com</a>
+					</p>
+					<ul class="d-flex justify-content-center">
+						<a href="#" class="twitter-icon">Twitter</a>
+						<a href="#" class="facebook-icon">Facebook</a>
+						<a href="#" class="pintrest-icon">Pintrest</a>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- <section class="flex-container">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -213,7 +224,7 @@
 			</div>
 		</div>
 	</section> -->
-		<!-- <div class="container-fluid" id="shop">
+	<!-- <div class="container-fluid" id="shop">
 		<div class="row">
 			<div id="effect" class="effects clearfix">
 				<div class="col-md-4 left nopadding">
@@ -299,7 +310,7 @@
 			</div>
 		</div>
 	</div> -->
-		<!-- <section class="discover">
+	<!-- <section class="discover">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-4 col-md-offset-4">
@@ -307,7 +318,7 @@
 				</div>
 			</div>
 		</div> -->
-		<!-- </section>
+	<!-- </section>
 	<section class="sign_up">
 		<div class="container">
 			<div class="row">
@@ -321,39 +332,19 @@
 			</div>
 		</div>
 	</section> -->
-		<footer id="contact">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4 footer-leftcol">
-						<p><span class="bold-16p">Contact Us</span>
-							<br>
-							PT. Juara Agroniaga Sejahtera<br>
-							+62 81233383634 - <a href="#">info@domain.com</a>
-						</p>
-					</div>
-					<div class="col-md-4 footer-midcol">
-						<p><span class="bold-16p mb-5">Our Social Media</span>
-						<ul>
-							<li><a href="#" class="twitter-icon">Twitter</a></li>
-							<li><a href="#" class="facebook-icon">Facebook</a></li>
-							<li><a href="#" class="pintrest-icon">Pintrest</a></li>
-						</ul>
-						<div class="clearfix"></div>
-					</div>
-					<div class="col-md-4 footer-rightcol">
-						<!-- <p>Designed by <a href="#"><img src="img/yebo-icon.png" alt="Yebo Logo"></a></p> -->
-					</div>
-				</div>
-			</div>
-		</footer>
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins)-->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		<!-- Include all compiled plugins (below), or include individual files as needed -->
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/jquery.flexslider.js"></script>
-		<script src="js/scripts.js"></script>
-		<script src="js/modernizr.js"></script>
-		<script src="js/waypoints.min.js"></script>
+	<footer id="contact">
+		<div class="container text-center p-1">
+			PT. Juara Agroniaga Sejahtera - 2022
+		</div>
+	</footer>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins)-->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.flexslider.js"></script>
+	<script src="js/scripts.js"></script>
+	<script src="js/modernizr.js"></script>
+	<script src="js/waypoints.min.js"></script>
 </body>
 
 </html>

@@ -36,7 +36,7 @@
 				<div>
 					<h3>ABOUT US</h3>
 					<h4>PT JUARA AGRONIAGA SEJAHTERA</h4>
-					<p class="text-intro text-justify ">PT Juara Agroniaga Sejahtera adalah sebuah poultry shop
+					<p class="text-intro text-justify fs-4">PT Juara Agroniaga Sejahtera adalah sebuah poultry shop
 						yang
 						didirikan pada tahun 2006 dengan memadukan teknologi dan pengembangan kapabilitas tim untuk
 						mendapatkan kemajuan bersama, serta mengajak & mensupport komunitas tumbuh secara bersama &
@@ -44,7 +44,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row p-5">
+		<div class="row p-5 wp5">
 			<div class="visi text-center mb-2 text-uppercase">
 				<h1>Visi</h1>
 				<p class="fw-bold">
@@ -72,13 +72,57 @@
 				<h1 class="text-center text-uppercase">Our Team</h1>
 			</div>
 		</div>
-		<div class="row p-5 justify-content-center">
-			<x-profile />
-			<x-profile />
-			<x-profile />
-			<x-profile />
-			<x-profile />
-			<x-profile />
+		<div id="team" class="row p-5 justify-content-center wp5">
+			{{-- Team --}}
+			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
+				<img src="https://i.pravatar.cc" alt="avatar" class="rounded-circle max-w-50">
+				<div class="mt-3 text-center text-uppercase">
+					<h4 class="fs-5">JOHN MIFTAH AHMAD</h4>
+					<h5 class="text-warning">CEO / DIREKTUR</h5>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
+				<img src="https://i.pravatar.cc" alt="avatar" class="rounded-circle max-w-50">
+				<div class="mt-3 text-center text-uppercase">
+					<h4 class="fs-5">SOLEMAN</h4>
+					<h5 class="text-warning">FAA LEADER (FINANCE-ADMIN-ACCOUNTING)</h5>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
+				<img src="https://i.pravatar.cc" alt="avatar" class="rounded-circle max-w-50">
+				<div class="mt-3 text-center text-uppercase">
+					<h4 class="fs-5">SAMBAS WIDIANTO</h4>
+					<h5 class="text-warning">RESEARCH & TECHNOLOGY APPLICATION LEADER</h5>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
+				<img src="https://i.pravatar.cc" alt="avatar" class="rounded-circle max-w-50">
+				<div class="mt-3 text-center text-uppercase">
+					<h4 class="fs-5">MOH. JUFFRIADI</h4>
+					<h5 class="text-warning">MAGETAN LEADER</h5>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
+				<img src="https://i.pravatar.cc" alt="avatar" class="rounded-circle max-w-50">
+				<div class="mt-3 text-center text-uppercase">
+					<h4 class="fs-5">EFFENDI SUDARMONO</h4>
+					<h5 class="text-warning">SALES LEADER</h5>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
+				<img src="https://i.pravatar.cc" alt="avatar" class="rounded-circle max-w-50">
+				<div class="mt-3 text-center text-uppercase">
+					<h4 class="fs-5">WISNU YANUAR</h4>
+					<h5 class="text-warning">SALES LEADER</h5>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
+				<img src="https://i.pravatar.cc" alt="avatar" class="rounded-circle max-w-50">
+				<div class="mt-3 text-center text-uppercase">
+					<h4 class="fs-5">M. NUR QOLIB</h4>
+					<h5 class="text-warning">FAA LEADER</h5>
+				</div>
+			</div>
 		</div>
 	</div>
 	<footer id="contact">
