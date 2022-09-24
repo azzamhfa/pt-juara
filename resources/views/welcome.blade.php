@@ -13,7 +13,8 @@
 	<link rel="stylesheet" href="css/flexslider.css?v=1.2" type="text/css">
 	<link rel="stylesheet" href="css/animate.css" type="text/css">
 	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+		integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	<!--[if lt IE 9]>
@@ -23,38 +24,17 @@
 </head>
 
 <body>
-	<header>
-		<div class="container">
-			<div class="d-flex align-items-center justify-content-center">
-				<img class="" style="height: 50px" src="/img/logo-ps.png" alt="">
-				<nav class="d-flex align-items-center">
-					<ul class="">
-						<li><a href="#about">About Us</a></li>
-						<li class="dot">.</li>
-						<li><a href="#work" class="r_spacer">Our Products</a></li>
-						<li class="dot">.</li>
-						<li><a href="#shop">Our X</a></li>
-						<li class="dot">.</li>
-						<li><a href="#contact">Contact</a></li>
-					</ul>
-				</nav>
-			</div>
-		</div>
-		<div class="hero position-relative ">
-			<div class=" text-center text-light position-absolute top-50 start-50 translate-middle">
-				<b class="fs-1">PT Juara Agroniaga Sejahtera</b>
-				<br>
-				Memadukan Sumberdaya Bermental Juara untuk mencapai kesejahteraan bersama
-			</div>
-
-		</div>
-	</header>
+	{{-- Component Navbar --}}
+	<x-navbar />
 	<div class="container-fluid intro w-75 p-3" id="about">
 		<div class="d-flex">
 			<div class="d-flex align-items-center flex-column p-5">
 				<img class="w-25" src="/img/logo-ps.png" alt="Logo PS">
 				<!-- <h1 class="text-center fs-4">PT Juara Agroniaga Sejahtera</h1> -->
-				<p class="text-intro text-justify">PT Juara Agroniaga Sejahtera adalah sebuah poultry shop yang didirikan pada tahun 2006 dengan memadukan teknologi dan pengembangan kapabilitas tim untuk mendapatkan kemajuan bersama, serta mengajak & mensupport komunitas tumbuh secara bersama & berkelanjutan di mata rantai industri pangan.</p>
+				<p class="text-intro text-justify">PT Juara Agroniaga Sejahtera adalah sebuah poultry shop yang
+					didirikan pada tahun 2006 dengan memadukan teknologi dan pengembangan kapabilitas tim untuk
+					mendapatkan kemajuan bersama, serta mengajak & mensupport komunitas tumbuh secara bersama &
+					berkelanjutan di mata rantai industri pangan.</p>
 				<button type="button" class="btn btn-outline-secondary">Discover More</button>
 			</div>
 			<div class="d-flex align-items-center justify-content-evenly flex-column p-5">
@@ -64,11 +44,14 @@
 				</div>
 				<div class="misi text-justify">
 					<h1>Misi</h1>
-					Menggabungkan sumber daya manusia bermental juara & memiliki komitmen kuat dalam peningkatan mutu kehidupan
+					Menggabungkan sumber daya manusia bermental juara & memiliki komitmen kuat dalam peningkatan mutu
+					kehidupan
 					<br>
-					Memberikan support management & transfer pengetahuan serta teknologi kepada pelaku produksi peternakan untuk menghasilkan produktifitas tinggi dengan kualitas terjamin & kompetitif
+					Memberikan support management & transfer pengetahuan serta teknologi kepada pelaku produksi
+					peternakan untuk menghasilkan produktifitas tinggi dengan kualitas terjamin & kompetitif
 					<br>
-					Berperan aktif dalam membangun rantai “feed for food”, agar terwujud kecukupan konsumsi protein & nutrisi yang baik untuk membantu mencerdaskan kehidupan bangsa & menciptakan kemakmuran nasional.
+					Berperan aktif dalam membangun rantai “feed for food”, agar terwujud kecukupan konsumsi protein &
+					nutrisi yang baik untuk membantu mencerdaskan kehidupan bangsa & menciptakan kemakmuran nasional.
 
 				</div>
 			</div>
@@ -76,10 +59,12 @@
 	</div>
 	<div class="container-fluid">
 		<div class="row">
-			<div class="d-flex flex-column col-md-8 nopadding align-items-center justify-content-center wp1 p-5" id="work">
+			<div class="d-flex flex-column col-md-8 nopadding align-items-center justify-content-center wp1 p-5"
+				id="work">
 				<h1 class="text-center">Our Business</h1>
 				<div class="d-flex justify-content-center flex-wrap">
-					<div class="d-flex card p-3 m-3 align-items-center justify-content-center" style="width: 12rem;" id="poultry">
+					<div class="d-flex card p-3 m-3 align-items-center justify-content-center" style="width: 12rem;"
+						id="poultry">
 						<img src="/img/kaf.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
 							<h4 class="card-title text-center">Poultry Shop</h1>
@@ -137,7 +122,8 @@
 						<img src="/img/kaf.png" alt="">
 						<h2>Poultry Shop</h2>
 					</div>
-					<p>Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf”, sebagai usaha hilirisasi dan meningkatkan nilai tambah dalam bisnis</p>
+					<p>Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf”, sebagai usaha
+						hilirisasi dan meningkatkan nilai tambah dalam bisnis</p>
 					<div class="thin-sep"></div>
 					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
 				</div>
@@ -146,7 +132,8 @@
 						<img src="/img/kaf.png" alt="">
 						<h2>Waralaba</h2>
 					</div>
-					<p>Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf”, sebagai usaha hilirisasi dan meningkatkan nilai tambah dalam bisnis</p>
+					<p>Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf”, sebagai usaha
+						hilirisasi dan meningkatkan nilai tambah dalam bisnis</p>
 					<div class="thin-sep"></div>
 					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
 				</div>
@@ -155,7 +142,8 @@
 						<img src="/img/kaf.png" alt="">
 						<h2>Waralaba</h2>
 					</div>
-					<p>Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf”, sebagai usaha hilirisasi dan meningkatkan nilai tambah dalam bisnis</p>
+					<p>Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf”, sebagai usaha
+						hilirisasi dan meningkatkan nilai tambah dalam bisnis</p>
 					<div class="thin-sep"></div>
 					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
 				</div>
@@ -165,7 +153,10 @@
 			<div class="d-flex col-md-8 col-md-offset-2 align-items-center flex-column">
 				<img class="w-25" src="/img/logo-ps.png" alt="Logo PS">
 				<!-- <h1 class="text-center fs-4">PT Juara Agroniaga Sejahtera</h1> -->
-				<p class="text-intro">PT Juara Agroniaga Sejahtera adalah sebuah poultry shop yang didirikan pada tahun 2006 dengan memadukan teknologi dan pengembangan kapabilitas tim untuk mendapatkan kemajuan bersama, serta mengajak & mensupport komunitas tumbuh secara bersama & berkelanjutan di mata rantai industri pangan.</p>
+				<p class="text-intro">PT Juara Agroniaga Sejahtera adalah sebuah poultry shop yang didirikan pada tahun
+					2006 dengan memadukan teknologi dan pengembangan kapabilitas tim untuk mendapatkan kemajuan bersama,
+					serta mengajak & mensupport komunitas tumbuh secara bersama & berkelanjutan di mata rantai industri
+					pangan.</p>
 				<button type="button" class="btn btn-outline-primary w-25">Detai~`l</button>
 
 			</div>
