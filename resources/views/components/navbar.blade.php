@@ -6,11 +6,11 @@
             </a>
             <nav class="d-flex align-items-center">
                 <ul class="">
+                    <li><a href="/">Home</a></li>
+                    <li class="dot">.</li>
                     <li><a href="/about">About Us</a></li>
                     <li class="dot">.</li>
                     <li><a href="#work" class="r_spacer">Our Products</a></li>
-                    <li class="dot">.</li>
-                    <li><a href="#shop">Our X</a></li>
                     <li class="dot">.</li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
@@ -23,6 +23,5 @@
             <br>
             Memadukan Sumberdaya Bermental Juara untuk mencapai kesejahteraan bersama
         </div>
-
     </div>
 </header>

@@ -75,49 +75,49 @@
 		<div id="team" class="row p-5 justify-content-center wp5">
 			{{-- Team --}}
 			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
-				<img src="https://i.pravatar.cc" alt="avatar" class="rounded-circle max-w-50">
+				<img src="/img/john.png" alt="avatar" class="rounded-circle max-w-50">
 				<div class="mt-3 text-center text-uppercase">
 					<h4 class="fs-5">JOHN MIFTAH AHMAD</h4>
 					<h5 class="text-warning">CEO / DIREKTUR</h5>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
-				<img src="https://i.pravatar.cc" alt="avatar" class="rounded-circle max-w-50">
+				<img src="/img/soleman.png" alt="avatar" class="rounded-circle max-w-50">
 				<div class="mt-3 text-center text-uppercase">
 					<h4 class="fs-5">SOLEMAN</h4>
 					<h5 class="text-warning">FAA LEADER (FINANCE-ADMIN-ACCOUNTING)</h5>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
-				<img src="https://i.pravatar.cc" alt="avatar" class="rounded-circle max-w-50">
+				<img src="/img/sambas.png" alt="avatar" class="rounded-circle max-w-50">
 				<div class="mt-3 text-center text-uppercase">
 					<h4 class="fs-5">SAMBAS WIDIANTO</h4>
 					<h5 class="text-warning">RESEARCH & TECHNOLOGY APPLICATION LEADER</h5>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
-				<img src="https://i.pravatar.cc" alt="avatar" class="rounded-circle max-w-50">
+				<img src="/img/moh.png" alt="avatar" class="rounded-circle max-w-50">
 				<div class="mt-3 text-center text-uppercase">
 					<h4 class="fs-5">MOH. JUFFRIADI</h4>
 					<h5 class="text-warning">MAGETAN LEADER</h5>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
-				<img src="https://i.pravatar.cc" alt="avatar" class="rounded-circle max-w-50">
+				<img src="/img/effendi.png" alt="avatar" class="rounded-circle max-w-50">
 				<div class="mt-3 text-center text-uppercase">
 					<h4 class="fs-5">EFFENDI SUDARMONO</h4>
 					<h5 class="text-warning">SALES LEADER</h5>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
-				<img src="https://i.pravatar.cc" alt="avatar" class="rounded-circle max-w-50">
+				<img src="/img/wisnu.png" alt="avatar" class="rounded-circle max-w-50">
 				<div class="mt-3 text-center text-uppercase">
 					<h4 class="fs-5">WISNU YANUAR</h4>
 					<h5 class="text-warning">SALES LEADER</h5>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
-				<img src="https://i.pravatar.cc" alt="avatar" class="rounded-circle max-w-50">
+				<img src="/img/mnur.png" alt="avatar" class="rounded-circle max-w-50">
 				<div class="mt-3 text-center text-uppercase">
 					<h4 class="fs-5">M. NUR QOLIB</h4>
 					<h5 class="text-warning">FAA LEADER</h5>
@@ -126,45 +126,8 @@
 		</div>
 	</div>
 	<footer id="contact">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-4 footer-leftcol">
-					<p><span class="bold-16p">About Us</span>
-						<br>
-						Visi & Misi<br>
-						New York, NY 10035 - <a href="#">info@domain.com</a>
-					</p>
-				</div>
-				<div class="col-md-4 footer-leftcol">
-					<p><span class="bold-16p">AOD New York</span><br>
-						2250 Lexington Avenue<br>
-						New York, NY 10035 - <a href="#">info@domain.com</a>
-					</p>
-				</div>
-				<div class="col-md-4 footer-leftcol">
-					<p><span class="bold-16p">AOD New York</span><br>
-						2250 Lexington Avenue<br>
-						New York, NY 10035 - <a href="#">info@domain.com</a>
-					</p>
-				</div>
-				<div class="col-md-4 footer-leftcol">
-					<p><span class="bold-16p">AOD New York</span><br>
-						2250 Lexington Avenue<br>
-						New York, NY 10035 - <a href="#">info@domain.com</a>
-					</p>
-				</div>
-				<div class="col-md-4 footer-midcol">
-					<ul>
-						<li><a href="#" class="twitter-icon">Twitter</a></li>
-						<li><a href="#" class="facebook-icon">Facebook</a></li>
-						<li><a href="#" class="pintrest-icon">Pintrest</a></li>
-					</ul>
-					<div class="clearfix"></div>
-				</div>
-				<div class="col-md-4 footer-rightcol">
-					<!-- <p>Designed by <a href="#"><img src="img/yebo-icon.png" alt="Yebo Logo"></a></p> -->
-				</div>
-			</div>
+		<div class="container text-center p-1">
+			PT. Juara Agroniaga Sejahtera - 2022
 		</div>
 	</footer>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins)-->

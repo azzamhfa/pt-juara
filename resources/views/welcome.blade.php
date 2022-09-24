@@ -13,8 +13,7 @@
 	<link rel="stylesheet" href="css/flexslider.css?v=1.2" type="text/css">
 	<link rel="stylesheet" href="css/animate.css" type="text/css">
 	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
-		integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	<!--[if lt IE 9]>
@@ -225,147 +224,7 @@
 			</div>
 		</div>
 	</div>
-	<!-- <section class="flex-container">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="flexslider">
-						<ul class="slides">
-							<li>
-								<div class="flex-twitter-icon"></div>
-								<h2 class="twitter-post-username">
-									<a href="#">AOS New York @aod</a> <span>/ 35 min</span>
-								</h2>
-								<p class="twitter-post">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus ac nulla semper rhoncus. Nullam a odio porttitor, dictum turpis vitae, pretium ante amet.</p>
-							</li>
-							<li>
-								<div class="flex-twitter-icon"></div>
-								<h2 class="twitter-post-username">
-									<a href="#">AOS New York @aod</a> <span>/ 35 min</span>
-								</h2>
-								<p class="twitter-post">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus ac nulla semper rhoncus. </p>
-							</li>
-							<li>
-								<div class="flex-twitter-icon"></div>
-								<h2 class="twitter-post-username">
-									<a href="#">AOS New York @aod</a> <span>/ 35 min</span>
-								</h2>
-								<p class="twitter-post">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus ac nulla semper rhoncus. Nullam a odio porttitor.</p>
-							</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section> -->
-	<!-- <div class="container-fluid" id="shop">
-		<div class="row">
-			<div id="effect" class="effects clearfix">
-				<div class="col-md-4 left nopadding">
-					<div class="left-box-1">
-						<div class="img">
-							<img src="img/l1.jpg" alt="Leather Seats">
-							<div class="overlay">
-								<a href="http://google.com/" class="expand">leather seats</a>
-								<a class="close-overlay hidden">x</a>
-							</div>
-						</div>
-					</div>
-					<div class="left-box-2 box">
-						<div class="img">
-							<img src="img/l2.jpg" alt="Custom Seats">
-							<div class="overlay">
-								<a href="#" class="expand">custom seats</a>
-								<a class="close-overlay hidden">x</a>
-							</div>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-					<div class="left-box-btm box">
-						<div class="img">
-							<img src="img/l3.jpg" alt="Limited Edition">
-							<div class="overlay">
-								<a href="#" class="expand">limited edition</a>
-								<a class="close-overlay hidden">x</a>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 mid nopadding">
-					<div class="mid-box-1 box">
-						<div class="img">
-							<img src="img/l4.jpg" alt="Shop Bags">
-							<div class="overlay">
-								<a href="#" class="expand">shop bags</a>
-								<a class="close-overlay hidden">x</a>
-							</div>
-						</div>
-					</div>
-					<div class="mid-box-2 box">
-						<div class="img">
-							<img src="img/l5.jpg" alt="Shop Bikes">
-							<div class="overlay">
-								<a href="#" class="expand">shop bikes</a>
-								<a class="close-overlay hidden">x</a>
-							</div>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				<div class="col-md-4 right nopadding">
-					<div class="right-box-1 box">
-						<div class="img">
-							<img src="img/l6.jpg" alt="Shop Now">
-							<div class="overlay">
-								<a href="#" class="expand">shop now</a>
-								<a class="close-overlay hidden">x</a>
-							</div>
-						</div>
-					</div>
-					<div class="right-box-2 box">
-						<div class="img">
-							<img src="img/l7.jpg" alt="Shop Seats">
-							<div class="overlay">
-								<a href="#" class="expand">shop seats</a>
-								<a class="close-overlay hidden">x</a>
-							</div>
-						</div>
-					</div>
-					<div class="right-box-3 box">
-						<div class="img">
-							<img src="img/l8.jpg" alt="Shop Accessories">
-							<div class="overlay">
-								<a href="#" class="expand">shop accessories</a>
-								<a class="close-overlay hidden">x</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div> -->
-	<!-- <section class="discover">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-md-4 col-md-offset-4">
-					<a href="#" class="shop-btn">Discover The Shop</a>
-				</div>
-			</div>
-		</div> -->
-	<!-- </section>
-	<section class="sign_up">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6 col-md-offset-3 sign-up">
-					<h2 class="logo-header">Stay on the saddle!</h2>
-					<form name="signup-form">
-						<input class="signup-input" type="email" name="email_address" value="" placeholder="enter your email..." title="Please enter a valid email address." required>
-						<button type="submit" class="submit-btn">GO</button>
-					</form>
-				</div>
-			</div>
-		</div>
-	</section> -->
+
 	<footer id="contact">
 		<div class="container text-center p-1">
 			PT. Juara Agroniaga Sejahtera - 2022
