@@ -8,8 +8,18 @@ HTML5 display definitions
     background-color: "$gray-200";
 }
 
+.zoom {
+    transition: transform 0.2s; /* Animation */
+}
+
+.zoom:hover {
+    transform: scale(
+        1.75
+    ); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
 .products {
-    background: #FFFFFF;
+    background: #ffffff;
     opacity: 0.8;
     /* box-shadow: 5px 5px 20px 5px #3e7f8c; */
 }
@@ -514,7 +524,8 @@ header ul li a {
     position: relative;
 }
 .section-2 {
-    background: url(https://www.poultryindonesia.com/wp-content/uploads/2021/08/Gambar.jpeg) no-repeat center center;
+    background: url(https://www.poultryindonesia.com/wp-content/uploads/2021/08/Gambar.jpeg)
+        no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

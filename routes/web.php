@@ -20,5 +20,8 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('about');
 });
+Route::get('/our-business', function () {
+    return view('ourbusiness');
+});
 
 
