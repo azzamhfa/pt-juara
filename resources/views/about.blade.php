@@ -26,6 +26,13 @@
 <body>
 	{{-- Component Navbar --}}
 	<x-navbar />
+	<div class="hero position-relative ">
+		<div class=" text-center text-light position-absolute top-50 start-50 translate-middle">
+			<b class="fs-1">PT Juara Agroniaga Sejahtera</b>
+			<br>
+			Memadukan Sumberdaya Bermental Juara untuk mencapai kesejahteraan bersama
+		</div>
+	</div>
 	{{-- End Of Component Navbar --}}
 	<div class="container-xl ">
 		<div class="row p-5">
