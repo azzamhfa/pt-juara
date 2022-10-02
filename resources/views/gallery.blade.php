@@ -33,60 +33,81 @@
                 <h1>Gallery</h1>
             </div>
         </div>
-        <div class="row">
-            <div class="col-6">
-                <button id="image" class="">Photo</button>
-            </div>
-            <div class="col-6">
-                <button id="video" class="">Video</button>
-            </div>
-        </div>
-        <h1>Bootstrap 5 with Masonry</h1>
-        <div id="image-container" class="row row-cols-1 row-cols-md-3 g-4"
-            data-masonry='{"percentPosition": true,  "itemSelector": ".col" }'>
-            <div class="col">
-                <div class="card" style="width: 200px; height: 100px">
-                    <img src="https://drive.google.com/uc?id=1kuDHRnmQ7omAJ8TPdZ01b_6BhhqHn3uR" alt="" srcset="">
-                </div>
-            </div>
-        </div>
-        <div id="image-container" class="row row-cols-1 row-cols-md-3 g-4"
-            data-masonry='{"percentPosition": true,  "itemSelector": ".col" }'>
-            <div class="col">
-                <div class="card" style="width: 200px; height: 100px">
-                    <img src="https://drive.google.com/uc?id=1kuDHRnmQ7omAJ8TPdZ01b_6BhhqHn3uR" alt="" srcset="">
-                </div>
-            </div>
-        </div>
-        <footer id="contact">
-            <div class="container text-center p-1">
-                PT. Juara Agroniaga Sejahtera - 2022
-            </div>
-        </footer>
-        <!-- jQuery (necessary for Bootstrap' s JavaScript plugins)-->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-        <!-- Include all compiled plugins (below), or include individual files as needed -->
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery.flexslider.js"></script>
-        <script src="js/scripts.js"></script>
-        <script src="js/modernizr.js"></script>
-        <script src="js/waypoints.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js"
-            integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous"
-            async></script>
-        <script>
-            $(document).ready(function(){
-        $("#image").click(function(){
-            $("#image-container").fadeOut();
-            $("#video-container").fadeIn();
-        });
-        $("#video").click(function(){
-            $("#video-container").fadeOut();
-            $("#image-container").fadeIn();
-        });
-    });
-        </script>
+        <div class="d-flex justify-content-center">
 
+            <ul class="nav nav-pills" id="myTab" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="photo-tab" data-bs-toggle="pill" data-bs-target="#photo"
+                        type="button" role="tab" aria-controls="photo" aria-selected="true">PHOTO</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="video-tab" data-bs-toggle="pill" data-bs-target="#video" type="button"
+                        role="tab" aria-controls="video" aria-selected="false">VIDEO</button>
+                </li>
+            </ul>
+        </div>
+
+        <!-- Tab panes -->
+        <div class="tab-content p-3 mt-5 mb-5">
+            <div class="tab-pane active" id="photo" role="tabpanel" aria-labelledby="photo-tab">
+                <div class="row g-5 wp5">
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+                        <img src="https://drive.google.com/uc?id=1U1GdmC_5f7ErE2UInZ9xd8QoVMHMy0X4" width="100%"
+                            height="100%" />
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+                        <img src="https://drive.google.com/uc?id=14N1aEpf1YJK18g144hAF8LduBRy_nqZF" width="100%"
+                            height="100%" allow="autoplay" />
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+                        <img src="https://drive.google.com/uc?id=1qjVjh1wLmwtV4vgtmG82IYfIFpMUTJYu" alt="" width="100%"
+                            height="100%">
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+                        <img src="https://drive.google.com/uc?id=1h6smSH_hM7VwE6_AJg53ANkS3QxZ1Loc" alt="" width="100%"
+                            height="100%">
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+                        <img src="https://drive.google.com/uc?id=1xeBSABauNHu_clcsB8zrHROSyoYQzQSb" alt="" width="100%"
+                            height="100%">
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+                        <img src="https://drive.google.com/uc?id=1h7XdeDgydj2SGlnfpXe4mPHsqKfjgvpj" alt="" width="100%"
+                            height="100%">
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane" style="min-height: 70vh" id="video" role="tabpanel" aria-labelledby="video-tab">
+                <div class="row g-5 wp-5">
+                    <div class="col-xs-12 col-sm-6 col-md-6" style="min-height: 40vh">
+                        <iframe src="https://drive.google.com/file/d/1CBy39dyamDNETLMxf1xcWuMJbQQ-Hjju/preview"
+                            width="100%" height="100%" allow="autoplay"></iframe>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6" style="min-height: 40vh">
+                        <iframe src="https://drive.google.com/file/d/1Y6KHCBiek61tkDcxMf4AYC1_QuMSOSkX/preview"
+                            width="100%" height="100%" allow="autoplay"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <footer id="contact">
+        <div class="container text-center p-1">
+            PT. Juara Agroniaga Sejahtera - 2022
+        </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap' s JavaScript plugins)-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
+    <script src="js/jquery.flexslider.js"></script>
+    <script src="js/scripts.js"></script>
+    <script src="js/modernizr.js"></script>
+    <script src="js/waypoints.min.js"></script>
 </body>
 
 </html>

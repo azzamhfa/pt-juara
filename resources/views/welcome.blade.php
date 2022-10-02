@@ -42,7 +42,7 @@
 					didirikan pada tahun 2006 dengan memadukan teknologi dan pengembangan kapabilitas tim untuk
 					mendapatkan kemajuan bersama, serta mengajak & mensupport komunitas tumbuh secara bersama &
 					berkelanjutan di mata rantai industri pangan.</p>
-				<button type="button" class="btn btn-outline-secondary">Discover More</button>
+				<button href="/about" type="button" class="btn btn-outline-secondary">Discover More</button>
 			</div>
 			<div class="d-flex align-items-center justify-content-evenly flex-column p-5">
 				<div class="visi text-justify mb-2">
@@ -100,7 +100,6 @@
 					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;" id="dombaB">
 						<img src="/img/domba2.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
-
 							<h4 class="card-title text-center">Breeding Domba</h1>
 						</div>
 
@@ -108,7 +107,6 @@
 					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;" id="rph">
 						<img src="/img/rph.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
-
 							<h4 class="card-title text-center">RPA & RPH</h1>
 						</div>
 
@@ -202,7 +200,7 @@
 		<div class="row">
 			<div class="col-md-4 section-text nopadding">
 				<div class="wp5">
-					<h2 class="mech">Our Store</h2>
+					<h2 class="mech">Our Office</h2>
 					<div class="p-5">
 						<p class="fs-4">Malang</p>
 						<p class="fs-4">Magetan</p>
@@ -214,7 +212,7 @@
 			</div>
 			<div class="col-md-8 section-2 nopadding">
 				<div class="wp2 text-center text-white position-absolute top-50 start-50 translate-middle">
-					<h1>Our Store</h1>
+					<h1>Our Office</h1>
 				</div>
 			</div>
 		</div>

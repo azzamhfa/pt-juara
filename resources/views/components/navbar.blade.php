@@ -10,11 +10,9 @@
                     <li class="dot">.</li>
                     <li><a href="/about">About Us</a></li>
                     <li class="dot">.</li>
-                    <li><a href="#work" class="r_spacer">Our Products</a></li>
+                    <li><a href="/our-business" class="r_spacer">Our Business</a></li>
                     <li class="dot">.</li>
                     <li><a href="/gallery">Gallery</a></li>
-                    <li class="dot">.</li>
-                    <li><a href="#contact">Contact</a></li>
                 </ul>
             </nav>
         </div>
