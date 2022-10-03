@@ -24,4 +24,8 @@ Route::get('/our-business', function () {
     return view('ourbusiness');
 });
 
+Route::get('/gallery', function () {
+    return view('gallery');
+});
+
 
