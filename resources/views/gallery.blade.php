@@ -52,28 +52,28 @@
             <div class="tab-pane active" id="photo" role="tabpanel" aria-labelledby="photo-tab">
                 <div class="row g-5 wp5">
                     <div class="col-xs-12 col-sm-6 col-md-4">
-                        <img src="https://drive.google.com/uc?id=1U1GdmC_5f7ErE2UInZ9xd8QoVMHMy0X4" width="100%"
-                            height="100%" />
+                        <img src="https://lh3.google.com/u/0/d/1U1GdmC_5f7ErE2UInZ9xd8QoVMHMy0X4=w2000-h2878-iv1"
+                            width="100%" height="100%" />
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-4">
-                        <img src="https://drive.google.com/uc?id=14N1aEpf1YJK18g144hAF8LduBRy_nqZF" width="100%"
-                            height="100%" allow="autoplay" />
+                        <img src="https://lh3.google.com/u/0/d/14N1aEpf1YJK18g144hAF8LduBRy_nqZF=w2000-h2878-iv1"
+                            width="100%" height="100%" allow="autoplay" />
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-4">
-                        <img src="https://drive.google.com/uc?id=1qjVjh1wLmwtV4vgtmG82IYfIFpMUTJYu" alt="" width="100%"
-                            height="100%">
+                        <img src="https://lh3.google.com/u/0/d/1qjVjh1wLmwtV4vgtmG82IYfIFpMUTJYu=w2000-h2878-iv1" alt=""
+                            width="100%" height="100%">
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-4">
-                        <img src="https://drive.google.com/uc?id=1h6smSH_hM7VwE6_AJg53ANkS3QxZ1Loc" alt="" width="100%"
-                            height="100%">
+                        <img src="https://lh3.google.com/u/0/d/1h6smSH_hM7VwE6_AJg53ANkS3QxZ1Loc=w2000-h2878-iv1" alt=""
+                            width="100%" height="100%">
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-4">
-                        <img src="https://drive.google.com/uc?id=1xeBSABauNHu_clcsB8zrHROSyoYQzQSb" alt="" width="100%"
-                            height="100%">
+                        <img src="https://lh3.google.com/u/0/d/1xeBSABauNHu_clcsB8zrHROSyoYQzQSb=w2000-h2878-iv1" alt=""
+                            width="100%" height="100%">
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-4">
-                        <img src="https://drive.google.com/uc?id=1h7XdeDgydj2SGlnfpXe4mPHsqKfjgvpj" alt="" width="100%"
-                            height="100%">
+                        <img src="https://lh3.google.com/u/0/d/1h7XdeDgydj2SGlnfpXe4mPHsqKfjgvpj=w2000-h2878-iv1" alt=""
+                            width="100%" height="100%">
                     </div>
                 </div>
             </div>
