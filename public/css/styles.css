@@ -25,27 +25,27 @@ HTML5 display definitions
 }
 
 /* ===== Scrollbar CSS ===== */
-  /* Firefox */
-  * {
+/* Firefox */
+* {
     scrollbar-width: none;
     scrollbar-color: #bababa #ffffff;
-  }
+}
 
-  /* Chrome, Edge, and Safari */
-  *::-webkit-scrollbar {
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
     width: 11px;
     height: 11px;
-  }
+}
 
-  *::-webkit-scrollbar-track {
+*::-webkit-scrollbar-track {
     background: #ffffff;
-  }
+}
 
-  *::-webkit-scrollbar-thumb {
+*::-webkit-scrollbar-thumb {
     background-color: #bababa;
     border-radius: 10px;
     border: 1px solid #ffffff;
-  }
+}
 /* * Corrects `block` display not defined in IE 6/7/8/9 and Firefox 3. */
 
 article,
@@ -283,7 +283,7 @@ Forms
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 685px;;
+    height: 685px;
 }
 form {
     margin: 0;
