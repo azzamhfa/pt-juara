@@ -8,8 +8,8 @@
 	<title>PT Juara Agroniaga Sejahtera</title>
 	<!-- Bootstrap -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
-	<link href="css/styles.css?v=1.2" rel="stylesheet">
-	<link href="css/queries.css?v=1.2" rel="stylesheet">
+	<link href="css/styles.css" rel="stylesheet">
+	<link href="css/queries.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/flexslider.css?v=1.2" type="text/css">
 	<link rel="stylesheet" href="css/animate.css" type="text/css">
 	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
