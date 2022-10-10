@@ -42,7 +42,7 @@
 					didirikan pada tahun 2006 dengan memadukan teknologi dan pengembangan kapabilitas tim untuk
 					mendapatkan kemajuan bersama, serta mengajak & mensupport komunitas tumbuh secara bersama &
 					berkelanjutan di mata rantai industri pangan.</p>
-				<button href="/about" type="button" class="btn btn-outline-secondary">Discover More</button>
+				<a href="/about" class="btn btn-outline-secondary">Discover More</a>
 			</div>
 			<div class="d-flex align-items-center justify-content-evenly flex-column p-5">
 				<div class="visi text-justify mb-2">
@@ -127,10 +127,11 @@
 						<img src="/img/jaringan.png" alt="">
 						<h2>Poultry Shop</h2>
 					</div>
-					<p>Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf”, sebagai usaha
-						hilirisasi dan meningkatkan nilai tambah dalam bisnis</p>
+					<p>Sebagai point of sales (titik penjualan) sekaligus sebagai agen poultry solution (layanan solusi peternak) untuk transfer teknologi & pengetahuan ke customer/ peternak
+</p>
 					<div class="thin-sep"></div>
-					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
+					<a href="/our-business" class="btn btn-outline-primary w-50">Detail</a>
+					
 				</div>
 				<div class="wp4 text-center" id="trading1" style="display: none;">
 					<div class="frame">
@@ -142,7 +143,7 @@
 						bagi customer
 					</p>
 					<div class="thin-sep"></div>
-					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
+					<a href="/our-business" class="btn btn-outline-primary w-50">Detail</a>
 				</div>
 				<div class="wp4 text-center" id="ayam1" style="display: none;">
 					<div class="frame">
@@ -152,7 +153,7 @@
 					<p>Mengembangkan kemitraan ayam jantan bekerjasama dengan peternak, untuk membangun jalinan
 						Kerjasama bisnis yang saling menguntungkan</p>
 					<div class="thin-sep"></div>
-					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
+					<a href="/our-business" class="btn btn-outline-primary w-50">Detail</a>
 				</div>
 				<div class="wp4 text-center" id="domba1" style="display: none;">
 					<div class="frame">
@@ -162,7 +163,7 @@
 					<p>Bisnis baru, sebuah bisnis kolaborasi untuk menambah portofolio bisnis, menjadi peluang ke depan
 						dalam memenuhi kebutuhan akan daging kambing/ domba</p>
 					<div class="thin-sep"></div>
-					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
+					<a href="/our-business" class="btn btn-outline-primary w-50">Detail</a>
 				</div>
 				<div class="wp4 text-center" id="domba2" style="display: none;">
 					<div class="frame">
@@ -173,7 +174,7 @@
 						trading yang sudah ada serta menjamin kualitas & kuantitas bibit untuk membantu menjaga pasokan
 						bibit nasional</p>
 					<div class="thin-sep"></div>
-					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
+					<a href="/our-business" class="btn btn-outline-primary w-50">Detail</a>
 				</div>
 				<div class="wp4 text-center" id="rph1" style="display: none;">
 					<div class="frame">
@@ -183,7 +184,7 @@
 					<p>Rumah Potong Unggas & Rumah Potong Hewan sebagai rantai bisnis yang potensial untuk membangun
 						efiensi bisnis sertai mata rantai bisnis dalam meningkatkan daya saing usaha</p>
 					<div class="thin-sep"></div>
-					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
+					<a href="/our-business" class="btn btn-outline-primary w-50">Detail</a>
 				</div>
 				<div class="wp4 text-center" id="kaf1" style="display: none;">
 					<div class="frame">
@@ -193,7 +194,7 @@
 					<p>Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf”, sebagai usaha
 						hilirisasi dan meningkatkan nilai tambah dalam bisnis</p>
 					<div class="thin-sep"></div>
-					<button type="button" class="btn btn-outline-primary w-50">Detail</button>
+					<a href="/our-business" class="btn btn-outline-primary w-50">Detail</a>
 				</div>
 			</div>
 		</div>

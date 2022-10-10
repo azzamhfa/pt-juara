@@ -37,7 +37,7 @@
 	<div class="container-xl ">
 		<div class="row p-5">
 			<div class="col-sm-12 col-md-6">
-				<img class="w-100" src="/img/logo-ps.png" alt="Logo PS">
+				<img class="w-75" src="/img/logo-ps.png" alt="Logo PS">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div>
@@ -128,6 +128,27 @@
 				<div class="mt-3 text-center text-uppercase">
 					<h4 class="fs-5">M. NUR QOLIB</h4>
 					<h5 class="text-warning">FAA LEADER</h5>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container-fluid">
+		<div class="row intro wp5">
+			<div class="d-flex col-md-8 col-md-offset-2 align-items-center justify-content-around">
+				<img class="w-25" src="/img/logo-ps.png" alt="Logo PS">
+				<div class="wraper">
+					<h1 class="text-center fs-4">Contact Us</h1>
+					<p class="text-center">
+						Villa Bukit Sengkaling AP-1,Landungsari, Jetak Lor, Mulyoagung, Dau, Malang Regency, East Java
+						65151
+						<br>
+						+62 81233383634 - <a href="#">info@domain.com</a>
+					</p>
+					<ul class="d-flex justify-content-center">
+						<a href="#" class="twitter-icon">Twitter</a>
+						<a href="#" class="facebook-icon">Facebook</a>
+						<a href="#" class="pintrest-icon">Pintrest</a>
+					</ul>
 				</div>
 			</div>
 		</div>

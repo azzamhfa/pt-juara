@@ -28,19 +28,18 @@
     <x-navbar />
     {{-- End Of Component Navbar --}}
     <div class="container">
-        <div class="row p-5">
+        <div class="row p-3">
             <div class="col-12 d-flex justify-content-center">
                 <h1>Gallery</h1>
             </div>
         </div>
         <div class="d-flex justify-content-center">
-
             <ul class="nav nav-pills" id="myTab" role="tablist">
-                <li class="nav-item" role="presentation">
+                <li class="nav-item mx-3" role="presentation">
                     <button class="nav-link active" id="photo-tab" data-bs-toggle="pill" data-bs-target="#photo"
                         type="button" role="tab" aria-controls="photo" aria-selected="true">PHOTO</button>
                 </li>
-                <li class="nav-item" role="presentation">
+                <li class="nav-item mx-3" role="presentation">
                     <button class="nav-link" id="video-tab" data-bs-toggle="pill" data-bs-target="#video" type="button"
                         role="tab" aria-controls="video" aria-selected="false">VIDEO</button>
                 </li>
@@ -54,26 +53,33 @@
                     <div class="col-xs-12 col-sm-6 col-md-4">
                         <img src="https://lh3.google.com/u/0/d/1U1GdmC_5f7ErE2UInZ9xd8QoVMHMy0X4=w2000-h2878-iv1"
                             width="100%" height="100%" />
+                        <p>Stock Daging</p>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-4">
                         <img src="https://lh3.google.com/u/0/d/14N1aEpf1YJK18g144hAF8LduBRy_nqZF=w2000-h2878-iv1"
                             width="100%" height="100%" allow="autoplay" />
+                        <p>Kerjasama yang dilakukan KAF</p>
+
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-4">
                         <img src="https://lh3.google.com/u/0/d/1qjVjh1wLmwtV4vgtmG82IYfIFpMUTJYu=w2000-h2878-iv1" alt=""
                             width="100%" height="100%">
+                        <p>Peternakan Ayam Kami</p>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-4">
                         <img src="https://lh3.google.com/u/0/d/1h6smSH_hM7VwE6_AJg53ANkS3QxZ1Loc=w2000-h2878-iv1" alt=""
                             width="100%" height="100%">
+                        <p>RPA dan RPH Kami</p>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-4">
                         <img src="https://lh3.google.com/u/0/d/1xeBSABauNHu_clcsB8zrHROSyoYQzQSb=w2000-h2878-iv1" alt=""
                             width="100%" height="100%">
+                            <p>Pembesaran Ayam Kami</p>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-4">
                         <img src="https://lh3.google.com/u/0/d/1h7XdeDgydj2SGlnfpXe4mPHsqKfjgvpj=w2000-h2878-iv1" alt=""
                             width="100%" height="100%">
+                        <p>Penyimpanan Hasil RPA & RPH Kami</p>
                     </div>
                 </div>
             </div>
@@ -82,10 +88,14 @@
                     <div class="col-xs-12 col-sm-6 col-md-6" style="min-height: 40vh">
                         <iframe src="https://drive.google.com/file/d/1CBy39dyamDNETLMxf1xcWuMJbQQ-Hjju/preview"
                             width="100%" height="100%" allow="autoplay"></iframe>
+                        <p>Penyuntikan Gizi pada Ayam Kami</p>
+                        
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-6" style="min-height: 40vh">
                         <iframe src="https://drive.google.com/file/d/1Y6KHCBiek61tkDcxMf4AYC1_QuMSOSkX/preview"
                             width="100%" height="100%" allow="autoplay"></iframe>
+                            <p>Proses Pemotongan di RPA & RPH Kami</p>
+                        
                     </div>
                 </div>
             </div>

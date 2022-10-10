@@ -26,32 +26,31 @@
     {{-- Component Navbar --}}
     <x-navbar />
     <h1 class="text-center pt-5">Our Business</h1>
-    <div class="row">
+    <div class="row" id="PoultryShop">
         <div class="d-flex col-md-4 section-text nopadding align-items-center px-5">
             <div class="wp4 text-justify" id="jaringan1">
                 <div class="d-flex frame justify-content-evenly align-items-center mb-4">
                     <img src="/img/jaringan.png" alt="">
                     <h1>Poultry Shop</h1>
                 </div>
-                <h5>Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf”, sebagai usaha
-                    hilirisasi dan meningkatkan nilai tambah dalam bisnis</h5>
+                <h5>Sebagai point of sales (titik penjualan) sekaligus sebagai agen poultry solution (layanan solusi peternak) untuk transfer teknologi & pengetahuan ke customer/ peternak
+                </h5>
             </div>
         </div>
-        <div class="d-flex flex-column col-md-8 nopadding justify-content-center">
-            <div class="d-flex wp2 justify-content-evenly align-items-center">
-                <img src="https://lh3.google.com/u/0/d/1qjVjh1wLmwtV4vgtmG82IYfIFpMUTJYu=w1920-h1007-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/101thJp9nxa0mZnfkzUfOrndl98V1pIRT=w1920-h1007-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/16vAFbajxJmITk8IY79BN4CHYA-aeSaIJ=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
+        <div class="d-flex flex-column col-md-8 nopadding justify-content-center" style="overflow-x: scroll;">
+            <div class="d-flex wp2 justify-content-evenly align-items-center" style="width: 150%;">
+                <img src="https://lh3.google.com/u/0/d/1qjVjh1wLmwtV4vgtmG82IYfIFpMUTJYu=w1920-h1007-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
+                <iframe src="https://drive.google.com/file/d/17pKLIFtcWITlSfWQ8McdVUrwa_bXWlAr/preview" height="350px" width="700px" allow="autoplay"></iframe>
+                <img src="https://lh3.google.com/u/0/d/1qjVjh1wLmwtV4vgtmG82IYfIFpMUTJYu=w1920-h1007-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
             </div>
-
         </div>
     </div>
-    <div class="row" style="background-color: #f4f5fc;">
-        <div class="d-flex flex-column col-md-8 nopadding justify-content-center">
-            <div class="d-flex wp3 justify-content-evenly align-items-center">
-                <img src="https://lh3.google.com/u/0/d/1ZtaSafwaSSCfYgSI0_iXUJo5KzKd-QHr=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/1PYO8FaH2FnM1UFuu55QDYTPffvWBo_88=w1920-h572-iv1 " alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/11DhnCQX2JpD0ZpONmWTYmwJIITYtXs9a=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
+    <div class="row" style="background-color: #f4f5fc;" id="Pakan">
+        <div class="d-flex flex-column col-md-8 nopadding justify-content-center" style="overflow-x: scroll;">
+            <div class="d-flex wp3 justify-content-evenly align-items-center" style="width: 150%;">
+                <iframe src="https://drive.google.com/file/d/1hPAyXgzqa-91BPHYbOZSJ91ZAHFwJnCe/preview" height="350px" width="700px" allow="autoplay"></iframe>
+                <img src="https://lh3.google.com/u/0/d/1ZtaSafwaSSCfYgSI0_iXUJo5KzKd-QHr=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
+                <iframe src="https://drive.google.com/file/d/1Y1TF3YBxof_Rw0zO2EbS1ZNB7e0X4HCh/preview" height="350px" width="700px" allow="autoplay"></iframe>
             </div>
         </div>
         <div class="d-flex col-md-4 section-text nopadding align-items-center px-5">
@@ -65,32 +64,31 @@
             </div>
         </div>
     </div>
-    <div class="row">
+    <div class="row" id="AyamJantan">
         <div class="d-flex col-md-4 section-text nopadding align-items-center px-5">
             <div class="wp4 text-justify" id="jaringan1">
                 <div class="d-flex frame justify-content-evenly align-items-center mb-4">
                     <img src="/img/ayam.png" alt="">
                     <h1>Farm Ayam Jantan</h1>
                 </div>
-                <h5 class="text-justify">Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf”, sebagai usaha
-                    hilirisasi dan meningkatkan nilai tambah dalam bisnis</h5>
+                <h5 class="text-justify">Mengembangkan kemitraan ayam jantan bekerjasama dengan peternak, untuk membangun jalinan kerjasama bisnis yang saling menguntungkan
+</h5>
             </div>
         </div>
-        <div class="d-flex flex-column col-md-8 nopadding justify-content-center">
-            <div class="d-flex wp1 justify-content-evenly align-items-center">
-                <img src="https://lh3.google.com/u/0/d/1r5JRQCrT7dg4uXJbAQ2qE6-7GeprNPZH=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/1xeBSABauNHu_clcsB8zrHROSyoYQzQSb=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/1BOnpvY0GkNChaRbn7tPrlnB6FC9hI5Km=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
+        <div class="d-flex flex-column col-md-8 nopadding justify-content-center" style="overflow-x: scroll;">
+            <div class="d-flex wp1 justify-content-evenly align-items-center" style="width: 150%;">
+                <img src="https://lh3.google.com/u/0/d/1r5JRQCrT7dg4uXJbAQ2qE6-7GeprNPZH=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
+                <iframe src="https://drive.google.com/file/d/1tx9nfwUgBMS0uAt1LZye5Yra4R4n_kT9/preview" height="350px" width="700px" allow="autoplay"></iframe>
+                <img src="https://lh3.google.com/u/0/d/1xeBSABauNHu_clcsB8zrHROSyoYQzQSb=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
             </div>
-
         </div>
     </div>
-    <div class="row" style="background-color: #f4f5fc;">
+    <div class="row" style="background-color: #f4f5fc;" id="Fattening">
         <div class="d-flex flex-column col-md-8 nopadding justify-content-center">
             <div class="d-flex wp3 justify-content-evenly align-items-center">
-                <img src="https://lh3.google.com/u/0/d/1QULEFh6gvlBiFvuzR5UVAc49nc-n7hVq=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/14N1aEpf1YJK18g144hAF8LduBRy_nqZF=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/1i4pu6WoraX63v7ebMLGBqgxwCwg20Ipm=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
+                <img src="https://lh3.google.com/u/0/d/1QULEFh6gvlBiFvuzR5UVAc49nc-n7hVq=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
+                <img src="https://lh3.google.com/u/0/d/14N1aEpf1YJK18g144hAF8LduBRy_nqZF=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
+                <img src="https://lh3.google.com/u/0/d/1i4pu6WoraX63v7ebMLGBqgxwCwg20Ipm=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
             </div>
         </div>
         <div class="d-flex col-md-4 section-text nopadding align-items-center px-5">
@@ -103,7 +101,7 @@
             </div>
         </div>
     </div>
-    <div class="row">
+    <div class="row" id="BreedingDomba">
         <div class="d-flex col-md-4 section-text nopadding align-items-center px-5">
             <div class="wp2 text-justify" id="jaringan1">
                 <div class="d-flex frame justify-content-evenly align-items-center mb-4">
@@ -115,19 +113,19 @@
         </div>
         <div class="d-flex flex-column col-md-8 nopadding justify-content-center">
             <div class="d-flex wp1 justify-content-evenly align-items-center">
-                <img src="https://lh3.google.com/u/0/d/1ubYNrAn3O0qFTyGEdNMU4Y-_rpmeByKt=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/1hyPxqqcJKiwXzSTdhUqXFiomJZaxal22=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/1-Q2wUCRIZG_5-To72m4LPCDdjQKhDRGi=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
+                <img src="https://lh3.google.com/u/0/d/1ubYNrAn3O0qFTyGEdNMU4Y-_rpmeByKt=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
+                <img src="https://lh3.google.com/u/0/d/1hyPxqqcJKiwXzSTdhUqXFiomJZaxal22=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
+                <img src="https://lh3.google.com/u/0/d/1-Q2wUCRIZG_5-To72m4LPCDdjQKhDRGi=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
             </div>
 
         </div>
     </div>
-    <div class="row" style="background-color: #f4f5fc;">
-        <div class="d-flex flex-column col-md-8 nopadding justify-content-center">
-            <div class="d-flex wp2 justify-content-evenly align-items-center">
-                <img src="https://lh3.google.com/u/0/d/1bIVUS7wz3aSwwYJHhrKCV_cFipTvW5nO=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/1W5PM3yU_TNaliOEAzYE_vMALpGfDsoRM=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/1WadNpJX58viwfa_ttjRikogwfTdGwWLr=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
+    <div class="row" style="background-color: #f4f5fc;" id="rphrpa">
+        <div class="d-flex flex-column col-md-8 nopadding justify-content-center" style="overflow-x: scroll;">
+            <div class="d-flex wp2 justify-content-evenly align-items-center"style="width: 150%;">
+                <img src="https://lh3.google.com/u/0/d/1bIVUS7wz3aSwwYJHhrKCV_cFipTvW5nO=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
+                <iframe src="https://drive.google.com/file/d/1Y6KHCBiek61tkDcxMf4AYC1_QuMSOSkX/preview" height="350px" width="700px" allow="autoplay"></iframe>
+                <img src="https://lh3.google.com/u/0/d/1WadNpJX58viwfa_ttjRikogwfTdGwWLr=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
             </div>
         </div>
         <div class="d-flex col-md-4 section-text nopadding align-items-center px-5">
@@ -152,11 +150,10 @@
         </div>
         <div class="d-flex flex-column col-md-8 nopadding justify-content-center">
             <div class="d-flex wp4 justify-content-evenly align-items-center">
-                <img src="https://lh3.google.com/u/0/d/1PoGEvUwXjYDIgashKIbqkDHenNsr6g9s=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/1fdPiJ54s_tAgkYao92jEHLV0L7sSIsMq=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/1Gpdfp8i28js7-98QYGTfcqD4D_JeSaWq=w1920-h572-iv1" alt="" srcset="" style="width:360px; height:350px; object-fit: cover;">
+                <img src="https://lh3.google.com/u/0/d/1PoGEvUwXjYDIgashKIbqkDHenNsr6g9s=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
+                <img src="https://lh3.google.com/u/0/d/1fdPiJ54s_tAgkYao92jEHLV0L7sSIsMq=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
+                <img src="https://lh3.google.com/u/0/d/1Gpdfp8i28js7-98QYGTfcqD4D_JeSaWq=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
             </div>
-
         </div>
     </div>
 
