@@ -13,8 +13,7 @@
 	<link rel="stylesheet" href="css/flexslider.css?v=1.2" type="text/css">
 	<link rel="stylesheet" href="css/animate.css" type="text/css">
 	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
-		integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	<!--[if lt IE 9]>
@@ -38,10 +37,13 @@
 			<div class="d-flex align-items-center flex-column p-5">
 				<img class="w-25" src="/img/logo-ps.png" alt="Logo PS">
 				<!-- <h1 class="text-center fs-4">PT Juara Agroniaga Sejahtera</h1> -->
-				<p class="text-intro text-justify">PT Juara Agroniaga Sejahtera adalah sebuah poultry shop yang
-					didirikan pada tahun 2006 dengan memadukan teknologi dan pengembangan kapabilitas tim untuk
-					mendapatkan kemajuan bersama, serta mengajak & mensupport komunitas tumbuh secara bersama &
-					berkelanjutan di mata rantai industri pangan.</p>
+				<p class="text-intro text-justify">PT. Juara Agroniaga Sejahtera berdiri tahun 2021, yang merupakan penggabungan atau penyatuan dari beberapa unit bisnis yang telah
+					berjalan sebelumnya yang bergerak di bisnis distribusi sarana produksi peternakan (poultry shop).
+					Tujuannya adalah untuk menaikkan nilai kompetitif dalam bisnis serta peluang pertumbuhan dalam kompetisi bisnis jangka panjang.</p>
+				<p class="text-intro text-justify">Dengan terus membagikan & mendampingi penerapan teknologi-teknologi baru di dunia perunggasan
+					kepada komunitas pelaku usaha peternakan, khususnya perunggasan, serta didukung oleh manajemen serta tenaga-tenaga profesional terlatih,
+					membuat bisnis terus tumbuh di beberapa sektor dengan melibatkan komunitas ikut tumbuh secara bersama & berkelanjutan, sebagai wujud peran
+					aktif membangun industri pangan nasional</p>
 				<a href="/about" class="btn btn-outline-secondary">Discover More</a>
 			</div>
 			<div class="d-flex align-items-center justify-content-evenly flex-column p-5">
@@ -66,12 +68,10 @@
 	</div>
 	<div class="container-fluid">
 		<div class="row">
-			<div class="d-flex flex-column col-md-8 nopadding align-items-center justify-content-center wp1 p-5"
-				id="work">
+			<div class="d-flex flex-column col-md-8 nopadding align-items-center justify-content-center wp1 p-5" id="work">
 				<h1 class="text-center text-light">Our Business</h1>
 				<div class="d-flex justify-content-center flex-wrap">
-					<div class="shadow d-flex card p-3 m-3 align-items-center justify-content-center"
-						style="width: 12rem;" id="poultry">
+					<div class="shadow d-flex card p-3 m-3 align-items-center justify-content-center" style="width: 12rem;" id="poultry">
 						<img src="/img/jaringan.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
 							<h4 class="card-title text-center">Poultry Shop</h1>
@@ -93,21 +93,14 @@
 					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;" id="dombaA">
 						<img src="/img/domba.png" class="card-img-top w-75" alt="...">
 						<div class="card-body ">
-							<h4 class="card-title text-center">Fattening & Trading Domba</h1>
-						</div>
-
-					</div>
-					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;" id="dombaB">
-						<img src="/img/domba2.png" class="card-img-top w-75" alt="...">
-						<div class="card-body">
-							<h4 class="card-title text-center">Breeding Domba</h1>
+							<h4 class="card-title text-center">Fattening & Breeding Domba</h1>
 						</div>
 
 					</div>
 					<div class="shadow 	card p-3 m-3 align-items-center" style="width: 12rem;" id="rph">
 						<img src="/img/rph.png" class="card-img-top w-75" alt="...">
 						<div class="card-body">
-							<h4 class="card-title text-center">RPA & RPH</h1>
+							<h4 class="card-title text-center">Rumah Potong Unggas</h1>
 						</div>
 
 					</div>
@@ -127,20 +120,20 @@
 						<img src="/img/jaringan.png" alt="">
 						<h2>Poultry Shop</h2>
 					</div>
-					<p>Sebagai point of sales (titik penjualan) sekaligus sebagai agen poultry solution (layanan solusi peternak) untuk transfer teknologi & pengetahuan ke customer/ peternak
-</p>
+					<p>
+						Sebagai point of sales (titik-titik penjualan) & sebagai unit solusi terhadap komunitas
+						bisnis serta sarana transfer teknologi ke customer (khususnya peternak) untuk mencapai perbaikan produktivitas usaha.
+					</p>
 					<div class="thin-sep"></div>
 					<a href="/our-business" class="btn btn-outline-primary w-50">Detail</a>
-					
+
 				</div>
 				<div class="wp4 text-center" id="trading1" style="display: none;">
 					<div class="frame">
 						<img src="/img/pakan.png" alt="">
 						<h2>Trading Bahan Baku Pakan & Home Mixer</h2>
 					</div>
-					<p>Menjual bahan-bahan baku pakan ternak non-feedmill serta memproduksi campuran pakan ternak dengan
-						menggunakan beberapa bahan baku local untuk kalangan terbatas (customer) sebagai total solution
-						bagi customer
+					<p>Menyediakan solusi bahan baku pakan ternak serta campuran bahan pakan untuk konunitas peternak sebagai total solution bagi customer.
 					</p>
 					<div class="thin-sep"></div>
 					<a href="/our-business" class="btn btn-outline-primary w-50">Detail</a>
@@ -150,49 +143,42 @@
 						<img src="/img/ayam.png" alt="">
 						<h2>Farm Ayam Jantan</h2>
 					</div>
-					<p>Mengembangkan kemitraan ayam jantan bekerjasama dengan peternak, untuk membangun jalinan
-						Kerjasama bisnis yang saling menguntungkan</p>
+					<p>
+						Mengembangkan pola kemitraan ayam jantan dengan skema bagi hasil untuk membangun jalinan bisnis berkelanjutan, dibangun atas dasar sikap terbuka, adil & kompetitif.
+					</p>
 					<div class="thin-sep"></div>
 					<a href="/our-business" class="btn btn-outline-primary w-50">Detail</a>
 				</div>
 				<div class="wp4 text-center" id="domba1" style="display: none;">
 					<div class="frame">
 						<img src="/img/domba.png" alt="">
-						<h2>Fattening dan Trading Domba</h2>
+						<h2>Fattening dan Breeding Domba</h2>
 					</div>
-					<p>Bisnis baru, sebuah bisnis kolaborasi untuk menambah portofolio bisnis, menjadi peluang ke depan
-						dalam memenuhi kebutuhan akan daging kambing/ domba</p>
-					<div class="thin-sep"></div>
-					<a href="/our-business" class="btn btn-outline-primary w-50">Detail</a>
-				</div>
-				<div class="wp4 text-center" id="domba2" style="display: none;">
-					<div class="frame">
-						<img src="/img/domba2.png" alt="">
-						<h2>Breeding Domba</h2>
-					</div>
-					<p>Sebuah bisnis rintisan yang bertujuan menjaga kelangsungan pasok atas bisnis penggemukan &
-						trading yang sudah ada serta menjamin kualitas & kuantitas bibit untuk membantu menjaga pasokan
-						bibit nasional</p>
+					<p>
+						Membangun mata rantai bisnis domba untuk menambah portofolio bisnis di peternakan ruminansia
+						memanfaatkan sumber daya bahan pakan lokal serta menjadi penyedia kebutuhan daging domba yang berkelanjutan.
+					</p>
 					<div class="thin-sep"></div>
 					<a href="/our-business" class="btn btn-outline-primary w-50">Detail</a>
 				</div>
 				<div class="wp4 text-center" id="rph1" style="display: none;">
 					<div class="frame">
 						<img src="/img/rph.png" alt="">
-						<h2>RPA & RPH</h2>
+						<h2>Rumah Potong Unggas</h2>
 					</div>
-					<p>Rumah Potong Unggas & Rumah Potong Hewan sebagai rantai bisnis yang potensial untuk membangun
-						efiensi bisnis sertai mata rantai bisnis dalam meningkatkan daya saing usaha</p>
+					<p>Membangun mata rantai pengolahan hasil ternak, untuk mendukung penyediaan daging secara berkelanjutan, kompetitif, aman, sehat, utuh dan halal.</p>
 					<div class="thin-sep"></div>
 					<a href="/our-business" class="btn btn-outline-primary w-50">Detail</a>
 				</div>
 				<div class="wp4 text-center" id="kaf1" style="display: none;">
 					<div class="frame">
 						<img src="/img/kaf.png" alt="">
-						<h2>Waralaba</h2>
+						<h2>Kaf Fried Chicken</h2>
 					</div>
-					<p>Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf”, sebagai usaha
-						hilirisasi dan meningkatkan nilai tambah dalam bisnis</p>
+					<p>
+						Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf” di Jawa Timur,
+						untuk mendorong peningkatan konsumsi protein masyarakat, khususnya dari produk olahan hasil unggas.
+					</p>
 					<div class="thin-sep"></div>
 					<a href="/our-business" class="btn btn-outline-primary w-50">Detail</a>
 				</div>
@@ -204,10 +190,11 @@
 					<h2 class="mech">Our Office</h2>
 					<div class="p-5">
 						<p class="fs-4">Malang</p>
-						<p class="fs-4">Magetan</p>
-						<p class="fs-4">Kediri</p>
 						<p class="fs-4">Mojokerto</p>
+						<p class="fs-4">Kediri</p>
+						<p class="fs-4">Magetan</p>
 						<p class="fs-4">Ponorogo</p>
+						<p class="fs-4">Bojonegoro</p>
 					</div>
 				</div>
 			</div>
@@ -226,8 +213,7 @@
 				<div class="wraper">
 					<h1 class="text-center fs-4">Contact Us</h1>
 					<p class="text-center">
-						Villa Bukit Sengkaling AP-1,Landungsari, Jetak Lor, Mulyoagung, Dau, Malang Regency, East Java
-						65151
+						Villa Bukit Sengkaling AC-8, Landungsari, Dau, Malang Regency, East Java 65151
 						<br>
 						+62 81233383634 - <a href="#">info@domain.com</a>
 					</p>

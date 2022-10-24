@@ -13,8 +13,7 @@
 	<link rel="stylesheet" href="css/flexslider.css" type="text/css">
 	<link rel="stylesheet" href="css/animate.css" type="text/css">
 	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
-		integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	<!--[if lt IE 9]>
@@ -85,49 +84,49 @@
 				<img src="/img/john.png" alt="avatar" class="rounded-circle max-w-50">
 				<div class="mt-3 text-center text-uppercase">
 					<h4 class="fs-5">JOHN MIFTAH AHMAD</h4>
-					<h5 class="text-warning">CEO / DIREKTUR</h5>
+					<h5 class="text-warning">CEO</h5>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
 				<img src="/img/soleman.png" alt="avatar" class="rounded-circle max-w-50">
 				<div class="mt-3 text-center text-uppercase">
 					<h4 class="fs-5">SOLEMAN</h4>
-					<h5 class="text-warning">FAA LEADER (FINANCE-ADMIN-ACCOUNTING)</h5>
+					<h5 class="text-warning">FINANCE-ADMIN-ACCOUNTING LEADER</h5>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
 				<img src="/img/sambas.png" alt="avatar" class="rounded-circle max-w-50">
 				<div class="mt-3 text-center text-uppercase">
 					<h4 class="fs-5">SAMBAS WIDIANTO</h4>
-					<h5 class="text-warning">RESEARCH & TECHNOLOGY APPLICATION LEADER</h5>
+					<h5 class="text-warning">TECHNOLOGY APPLICATION LEADER</h5>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
 				<img src="/img/moh.png" alt="avatar" class="rounded-circle max-w-50">
 				<div class="mt-3 text-center text-uppercase">
-					<h4 class="fs-5">MOH. JUFFRIADI</h4>
-					<h5 class="text-warning">MAGETAN LEADER</h5>
+					<h4 class="fs-5">MOHAMAD JUFFRIADI</h4>
+					<h5 class="text-warning">AREA SALES LEADER</h5>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
 				<img src="/img/effendi.png" alt="avatar" class="rounded-circle max-w-50">
 				<div class="mt-3 text-center text-uppercase">
-					<h4 class="fs-5">EFFENDI SUDARMONO</h4>
-					<h5 class="text-warning">SALES LEADER</h5>
+					<h4 class="fs-5">EFENDI SUDARMONO</h4>
+					<h5 class="text-warning">AREA SALES LEADER</h5>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
 				<img src="/img/wisnu.png" alt="avatar" class="rounded-circle max-w-50">
 				<div class="mt-3 text-center text-uppercase">
 					<h4 class="fs-5">WISNU YANUAR</h4>
-					<h5 class="text-warning">SALES LEADER</h5>
+					<h5 class="text-warning">AREA SALES LEADER</h5>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 d-flex flex-column p-3">
 				<img src="/img/mnur.png" alt="avatar" class="rounded-circle max-w-50">
 				<div class="mt-3 text-center text-uppercase">
-					<h4 class="fs-5">M. NUR QOLIB</h4>
-					<h5 class="text-warning">FAA LEADER</h5>
+					<h4 class="fs-5">MUCHAMAD NUR QOLIB</h4>
+					<h5 class="text-warning">OFFICE LEADER</h5>
 				</div>
 			</div>
 		</div>
@@ -139,8 +138,7 @@
 				<div class="wraper">
 					<h1 class="text-center fs-4">Contact Us</h1>
 					<p class="text-center">
-						Villa Bukit Sengkaling AP-1,Landungsari, Jetak Lor, Mulyoagung, Dau, Malang Regency, East Java
-						65151
+						Villa Bukit Sengkaling AC-8, Landungsari, Dau, Malang Regency, East Java 65151
 						<br>
 						+62 81233383634 - <a href="#">info@domain.com</a>
 					</p>

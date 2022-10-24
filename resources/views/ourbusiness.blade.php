@@ -33,7 +33,9 @@
                     <img src="/img/jaringan.png" alt="">
                     <h1>Poultry Shop</h1>
                 </div>
-                <h5>Sebagai point of sales (titik penjualan) sekaligus sebagai agen poultry solution (layanan solusi peternak) untuk transfer teknologi & pengetahuan ke customer/ peternak
+                <h5>
+                    Sebagai point of sales (titik-titik penjualan) & sebagai unit solusi terhadap komunitas bisnis serta sarana transfer teknologi ke customer
+                    (khususnya peternak) untuk mencapai perbaikan produktivitas usaha.
                 </h5>
             </div>
         </div>
@@ -59,8 +61,9 @@
                     <img src="/img/pakan.png" alt="">
                     <h1>Trading Bahan Baku Pakan & Home Mixer</h1>
                 </div>
-                <h5 class="text-justify">Menjual bahan-bahan baku pakan ternak non-feedmill serta memproduksi campuran pakan ternak dengan menggunakan
-                    beberapa bahan baku local untuk kalangan terbatas (customer) sebagai total solution bagi customer</h5>
+                <h5 class="text-justify">
+                    Menyediakan solusi bahan baku pakan ternak serta campuran bahan pakan untuk konunitas peternak sebagai total solution bagi customer.
+                </h5>
             </div>
         </div>
     </div>
@@ -71,8 +74,9 @@
                     <img src="/img/ayam.png" alt="">
                     <h1>Farm Ayam Jantan</h1>
                 </div>
-                <h5 class="text-justify">Mengembangkan kemitraan ayam jantan bekerjasama dengan peternak, untuk membangun jalinan kerjasama bisnis yang saling menguntungkan
-</h5>
+                <h5 class="text-justify">
+                    Mengembangkan pola kemitraan ayam jantan dengan skema bagi hasil untuk membangun jalinan bisnis berkelanjutan, dibangun atas dasar sikap terbuka, adil & kompetitif.
+                </h5>
             </div>
         </div>
         <div class="d-flex flex-column col-md-8 nopadding justify-content-center" style="overflow-x: scroll;">
@@ -95,64 +99,53 @@
             <div class="wp4 text-right" id="jaringan1">
                 <div class="d-flex frame justify-content-evenly align-items-center mb-4">
                     <img src="/img/domba.png" alt="">
-                    <h1>Fattening dan Trading Domba</h1>
+                    <h1>Fattening dan Breeding Domba</h1>
                 </div>
-                <h5 class="text-justify">Bisnis baru, sebuah bisnis kolaborasi untuk menambah portofolio bisnis, menjadi peluang ke depan dalam memenuhi kebutuhan akan daging kambing/ domba</h5>
+                <h5 class="text-justify">
+                    Membangun mata rantai bisnis domba untuk menambah portofolio bisnis di peternakan ruminansia
+                    memanfaatkan sumber daya bahan pakan lokal serta menjadi penyedia kebutuhan daging domba yang berkelanjutan.
+                </h5>
             </div>
-        </div>
-    </div>
-    <div class="row" id="BreedingDomba">
-        <div class="d-flex col-md-4 section-text nopadding align-items-center px-5">
-            <div class="wp2 text-justify" id="jaringan1">
-                <div class="d-flex frame justify-content-evenly align-items-center mb-4">
-                    <img src="/img/domba2.png" alt="">
-                    <h1>Breeding Domba</h1>
-                </div>
-                <h5 class="text-justify">Sebuah bisnis rintisan yang bertujuan menjaga kelangsungan pasok atas bisnis penggemukan & trading yang sudah ada serta menjamin kualitas & kuantitas bibit untuk membantu menjaga pasokan bibit nasional</h5>
-            </div>
-        </div>
-        <div class="d-flex flex-column col-md-8 nopadding justify-content-center">
-            <div class="d-flex wp1 justify-content-evenly align-items-center">
-                <img src="https://lh3.google.com/u/0/d/1ubYNrAn3O0qFTyGEdNMU4Y-_rpmeByKt=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/1hyPxqqcJKiwXzSTdhUqXFiomJZaxal22=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
-                <img src="https://lh3.google.com/u/0/d/1-Q2wUCRIZG_5-To72m4LPCDdjQKhDRGi=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
-            </div>
-
         </div>
     </div>
     <div class="row" style="background-color: #f4f5fc;" id="rphrpa">
+        <div class="d-flex col-md-4 section-text nopadding align-items-center px-5">
+            <div class="wp4" id="jaringan1">
+                <div class="d-flex frame justify-content-evenly align-items-center mb-4">
+                    <img src="/img/rph.png" alt="">
+                    <h1>Rumah Potong Unggas</h1>
+                </div>
+                <h5 class="text-justify">
+                    Membangun mata rantai pengolahan hasil ternak, untuk mendukung penyediaan daging secara berkelanjutan, kompetitif, aman, sehat, utuh dan halal.
+                </h5>
+            </div>
+        </div>
         <div class="d-flex flex-column col-md-8 nopadding justify-content-center" style="overflow-x: scroll;">
-            <div class="d-flex wp2 justify-content-evenly align-items-center"style="width: 150%;">
+            <div class="d-flex wp2 justify-content-evenly align-items-center" style="width: 150%;">
                 <img src="https://lh3.google.com/u/0/d/1bIVUS7wz3aSwwYJHhrKCV_cFipTvW5nO=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
                 <iframe src="https://drive.google.com/file/d/1Y6KHCBiek61tkDcxMf4AYC1_QuMSOSkX/preview" height="350px" width="700px" allow="autoplay"></iframe>
                 <img src="https://lh3.google.com/u/0/d/1WadNpJX58viwfa_ttjRikogwfTdGwWLr=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
             </div>
         </div>
-        <div class="d-flex col-md-4 section-text nopadding align-items-center px-5">
-            <div class="wp4" id="jaringan1">
-                <div class="d-flex frame justify-content-evenly align-items-center mb-4">
-                    <img src="/img/rph.png" alt="">
-                    <h1>RPA & RPH</h1>
-                </div>
-                <h5 class="text-justify">Rumah Potong Unggas & Rumah Potong Hewan sebagai rantai bisnis yang potensial untuk membangun efiensi bisnis sertai mata rantai bisnis dalam meningkatkan daya saing usaha</h5>
-            </div>
-        </div>
     </div>
     <div class="row">
-        <div class="d-flex col-md-4 section-text nopadding align-items-center px-5">
-            <div class="wp1 " id="jaringan1">
-                <div class="d-flex frame justify-content-evenly align-items-center mb-4">
-                    <img src="/img/jaringan.png" alt="">
-                    <h1>Waralaba</h1>
-                </div>
-                <h5 class="text-justify">Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf”, sebagai usaha hilirisasi dan meningkatkan nilai tambah dalam bisnis</h5>
-            </div>
-        </div>
         <div class="d-flex flex-column col-md-8 nopadding justify-content-center">
             <div class="d-flex wp4 justify-content-evenly align-items-center">
                 <img src="https://lh3.google.com/u/0/d/1PoGEvUwXjYDIgashKIbqkDHenNsr6g9s=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
                 <img src="https://lh3.google.com/u/0/d/1fdPiJ54s_tAgkYao92jEHLV0L7sSIsMq=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
                 <img src="https://lh3.google.com/u/0/d/1Gpdfp8i28js7-98QYGTfcqD4D_JeSaWq=w1920-h572-iv1" alt="" srcset="" style="width:400px; height:350px; object-fit: cover;">
+            </div>
+        </div>
+        <div class="d-flex col-md-4 section-text nopadding align-items-center px-5">
+            <div class="wp1 " id="jaringan1">
+                <div class="d-flex frame justify-content-evenly align-items-center mb-4">
+                    <img src="/img/jaringan.png" alt="">
+                    <h1>Waralaba - Kaf Fried Chicken</h1>
+                </div>
+                <h5 class="text-justify">
+                    Mengembangkan gerai-gerai penjualan ayam goreng (fried chicken) dengan brand “Kaf” di Jawa Timur,
+                    untuk mendorong peningkatan konsumsi protein masyarakat, khususnya dari produk olahan hasil unggas.
+                </h5>
             </div>
         </div>
     </div>
